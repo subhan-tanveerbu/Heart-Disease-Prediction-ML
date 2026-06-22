@@ -29,6 +29,7 @@ Confusion Matrix – shows correct and incorrect predictions clearly
 ROC Curve – helps measure how well the model separates patients with and without heart disease
 ![roc_curve](roc_curve.JPG)
 
+
 Conclusion
 
 The Logistic Regression model achieved good performance on the dataset.
