@@ -19,11 +19,13 @@ Model Evaluation
 To understand how well the model performs, we evaluated it using:
 
 Accuracy – how often the model makes correct predictions
+![Distribution](Distribution.JPG)
 
 Confusion Matrix – shows correct and incorrect predictions clearly
+![confusion_matrix](confusion_matrix.JPG)
 
 ROC Curve – helps measure how well the model separates patients with and without heart disease
-
+![roc_curve](roc_curve.JPG)
 Conclusion
 
 The Logistic Regression model achieved good performance on the dataset.
